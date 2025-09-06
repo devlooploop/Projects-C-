@@ -28,26 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ucAddEditPerson1 = new DVLD_2_my.UserControls.ucAddEditPerson();
             this.btnSave = new System.Windows.Forms.Button();
             this.btnClose = new System.Windows.Forms.Button();
+            this.ucAddEditPerson1 = new DVLD_2_my.UserControls.ucAddEditPerson();
             this.SuspendLayout();
-            // 
-            // ucAddEditPerson1
-            // 
-            this.ucAddEditPerson1.BackColor = System.Drawing.Color.White;
-            this.ucAddEditPerson1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ucAddEditPerson1.Location = new System.Drawing.Point(58, 27);
-            this.ucAddEditPerson1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.ucAddEditPerson1.Name = "ucAddEditPerson1";
-            this.ucAddEditPerson1.Size = new System.Drawing.Size(1322, 597);
-            this.ucAddEditPerson1.TabIndex = 0;
             // 
             // btnSave
             // 
             this.btnSave.Image = global::DVLD_2_my.Properties.Resources.Save_32;
             this.btnSave.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSave.Location = new System.Drawing.Point(981, 558);
+            this.btnSave.Location = new System.Drawing.Point(887, 567);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(117, 45);
             this.btnSave.TabIndex = 2;
@@ -59,22 +49,34 @@
             // 
             this.btnClose.Image = global::DVLD_2_my.Properties.Resources.Close_32;
             this.btnClose.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnClose.Location = new System.Drawing.Point(858, 558);
+            this.btnClose.Location = new System.Drawing.Point(764, 567);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(117, 45);
             this.btnClose.TabIndex = 1;
             this.btnClose.Text = "Close";
             this.btnClose.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
+            // ucAddEditPerson1
+            // 
+            this.ucAddEditPerson1.BackColor = System.Drawing.Color.White;
+            this.ucAddEditPerson1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ucAddEditPerson1.Location = new System.Drawing.Point(13, 40);
+            this.ucAddEditPerson1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.ucAddEditPerson1.Name = "ucAddEditPerson1";
+            this.ucAddEditPerson1.Size = new System.Drawing.Size(1298, 589);
+            this.ucAddEditPerson1.TabIndex = 0;
             // 
             // frmAddEditPerson
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1440, 656);
+            this.ClientSize = new System.Drawing.Size(1347, 656);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.ucAddEditPerson1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "frmAddEditPerson";
             this.Text = "frmAddEditPerson";
             this.ResumeLayout(false);

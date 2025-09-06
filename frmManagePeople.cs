@@ -10,18 +10,17 @@ using System.Windows.Forms;
 
 namespace DVLD_2_my
 {
-    public partial class frmAddEditPerson : Form
+    public partial class frmManagePeople : Form
     {
-        public frmAddEditPerson()
+        public frmManagePeople()
         {
-
             InitializeComponent();
         }
 
-        private void btnClose_Click(object sender, EventArgs e)
+        private void btnAddPerson_Click(object sender, EventArgs e)
         {
-            Close();
+            Form frm = new frmAddEditPerson();
+            frm.ShowDialog();
         }
-
     }
 }

@@ -11,3 +11,4 @@ C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projec
 C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD-2_my.exe
 C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD-2_my.pdb
 C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD-2_my.exe.config
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD_2_my.frmManagePeople.resources
