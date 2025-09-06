@@ -1,0 +1,6 @@
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,13 @@
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\bin\Debug\DVLD-2_my.exe.config
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\bin\Debug\DVLD-2_my.exe
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\bin\Debug\DVLD-2_my.pdb
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD-2_my.csproj.AssemblyReference.cache
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD_2_my.frmAddEditPerson.resources
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD_2_my.frmMainMenu.resources
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD_2_my.Properties.Resources.resources
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD_2_my.UserControls.ucAddEditPerson.resources
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD-2_my.csproj.GenerateResource.cache
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD-2_my.csproj.CoreCompileInputs.cache
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD-2_my.exe
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD-2_my.pdb
+C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\obj\Debug\DVLD-2_my.exe.config
