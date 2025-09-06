@@ -14,7 +14,6 @@ namespace DVLD_2_my
     {
         public frmAddEditPerson()
         {
-
             InitializeComponent();
         }
 

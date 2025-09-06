@@ -53,7 +53,6 @@ namespace DataAccess
                                                           FROM People 
                                                           INNER JOIN Countries ON People.NationalityCountryID = Countries.CountryID";
 
-
         private static T GetValueOrDefault<T>(SqlDataReader reader, string ColmName, T DefaultValue)
         {
             var ReaderValue = reader[ColmName];

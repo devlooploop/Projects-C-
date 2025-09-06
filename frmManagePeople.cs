@@ -22,5 +22,10 @@ namespace DVLD_2_my
             Form frm = new frmAddEditPerson();
             frm.ShowDialog();
         }
+
+        private void frmManagePeople_Load(object sender, EventArgs e)
+        {
+            // dgvManagePeople.DataSource =
+        }
     }
 }

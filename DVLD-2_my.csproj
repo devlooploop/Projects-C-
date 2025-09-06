@@ -64,6 +64,8 @@
     <Compile Include="frmManagePeople.Designer.cs">
       <DependentUpon>frmManagePeople.cs</DependentUpon>
     </Compile>
+    <Compile Include="Global Classes\clsSharedTypes .cs" />
+    <Compile Include="Global Classes\clsValidations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserControls\ucAddEditPerson.cs">
@@ -212,5 +214,6 @@
   <ItemGroup>
     <None Include="Icons\Icons\Add Person 40.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
