@@ -65,7 +65,7 @@
             this.ucAddEditPerson1.Location = new System.Drawing.Point(13, 40);
             this.ucAddEditPerson1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ucAddEditPerson1.Name = "ucAddEditPerson1";
-            this.ucAddEditPerson1.Size = new System.Drawing.Size(1298, 589);
+            this.ucAddEditPerson1.Size = new System.Drawing.Size(1286, 589);
             this.ucAddEditPerson1.TabIndex = 0;
             // 
             // frmAddEditPerson

@@ -1,2 +1,0 @@
-C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\Business\obj\Debug\Business.csproj.AssemblyReference.cache
-C:\Users\mk\Documents\Course++\C++_Course_Projects\19 - Full Real Project\Projects_My\DVLD-2_my\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
