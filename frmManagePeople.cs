@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Business;
 
 namespace DVLD_2_my
 {
@@ -25,7 +26,7 @@ namespace DVLD_2_my
 
         private void frmManagePeople_Load(object sender, EventArgs e)
         {
-            // dgvManagePeople.DataSource =
+            dgvManagePeople.DataSource = clsPerson.GetAllPeople();
         }
     }
 }
