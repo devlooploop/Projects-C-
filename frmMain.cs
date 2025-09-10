@@ -24,7 +24,6 @@ namespace DVLD_2_my
             Form frm = new frmManagePeople();
             frm.ShowDialog();
             
-
         }
     }
 }
